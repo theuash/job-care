@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/android-sdk/
+build/
+*.apk
+*.ap_
+*.dex
+*.class
+*.log
+.idea/
+out/
+.DS_Store
