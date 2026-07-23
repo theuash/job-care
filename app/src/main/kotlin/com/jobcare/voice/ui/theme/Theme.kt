@@ -1,4 +1,4 @@
-package com.example.basicapp.ui.theme
+package com.jobcare.voice.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
@@ -41,7 +41,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun BasicAppTheme(
+fun JobCareTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     content: @Composable () -> Unit
 ) {
